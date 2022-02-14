@@ -1,1 +1,1 @@
-# Olympic-game-anaylsis and visualizations
+# Olympic Game Anaylsis and Visualizations
